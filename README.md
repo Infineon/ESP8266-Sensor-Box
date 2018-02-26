@@ -21,7 +21,7 @@ An example sketch can be found [here](https://github.com/Infineon/ESP8266-Sensor
 ### Important Notes
 * The DPS310 barometric pressure sensor __only__ works on socket 2. This is due to a limitation of the WeMos board.
 
-Files for a 3D printable enclosure will follow.
+Files for a 3D printable enclosure can be downloaded here: [Body](/3D-prints/SB_v1_Box.stl) / [Lid](/3D-prints/SB_v1_Lid.stl).
 
 
 ![SensorBox](https://github.com/Infineon/Assets/blob/master/Pictures/SensorBox_v1.jpg)
